@@ -7,8 +7,8 @@ Anomaly Detection from Network Traffic on IoT Devices
 
 
 ### Output (Streamlit)
-![Mirai Attack Detected]([http://url/to/img.png](https://imgur.com/a/OF5sr44)
+![Mirai Attack Detected](https://imgur.com/a/OF5sr44)
 
 
-![DDoS Attack Detected]([http://url/to/img.png](https://imgur.com/a/72gxsbO)
+![DDoS Attack Detected](https://imgur.com/a/72gxsbO)
 
